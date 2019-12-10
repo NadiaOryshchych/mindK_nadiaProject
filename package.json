@@ -1,0 +1,19 @@
+{
+  "name": "mindk_nadiaproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadiaOryshchych/mindK_nadiaProject.git"
+  },
+  "author": "Nadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadiaOryshchych/mindK_nadiaProject/issues"
+  },
+  "homepage": "https://github.com/NadiaOryshchych/mindK_nadiaProject#readme"
+}
